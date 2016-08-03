@@ -7,4 +7,6 @@ core = 7.x
 
 projects[webform][version] = 4.13
 projects[webform][subdir] = contrib
-projects[webform][patch][2076483] = http://drupal.org/files/issues/webform_uuid-2076483-5.patch
+
+projects[webform_uuid][version] = 1.0
+projects[webform_uuid][subdir] = contrib
