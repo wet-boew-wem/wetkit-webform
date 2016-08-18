@@ -66,6 +66,8 @@ function wetkit_webform_default_page_manager_handlers() {
   $display->cache = array();
   $display->title = '';
   $display->uuid = '4286442d-61e8-8974-c145-399811c5794b';
+  $display->storage_type = 'page_manager';
+  $display->storage_id = 'node_view__panel_context_45ae25e5-04e8-494d-9e7f-762da0e60239';
   $display->content = array();
   $display->panels = array();
     $pane = new stdClass();
