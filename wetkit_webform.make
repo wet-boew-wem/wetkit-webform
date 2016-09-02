@@ -5,7 +5,7 @@ core = 7.x
 
 ; Modules
 
-projects[webform][version] = 4.13
+projects[webform][version] = 4.14
 projects[webform][subdir] = contrib
 
 projects[webform_uuid][version] = 1.0
